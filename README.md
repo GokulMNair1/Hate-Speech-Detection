@@ -6,7 +6,7 @@ Hate Speech Predicational Analysis is the process of computationally identifying
 To implement an algorithm for automatic classification of tweets into Positive, Negative or Neutral with highest accuracy possible. The tweets cab be gathered to summarize the overall Hate Speech Prediction on a particular topic.
 ![image](https://user-images.githubusercontent.com/110875197/183559866-ed707c8b-4562-444f-a4f2-c38b51abbdbe.png)
 
-### IMPLEMENTATION:
+## IMPLEMENTATION:
 
 ![image](https://user-images.githubusercontent.com/110875197/183560122-ac7c4618-cf14-4cf3-9545-2c6217448635.png)
 
@@ -71,6 +71,26 @@ Tweets = Tweets + [“positive, Not_afford, can, buy, sad”]
 F) REPEAT STEP A TO E:
 
 Step from A till E is repeated for each tweet in training set to get complete list of Processed Tweets and Feature List.
+
+## HARDWARE REQUIREMENTS
+
+Processor	: Any Processor above 1.5 GHz
+
+RAM	: 2 GB
+
+Hard Disk	: 10 GB
+
+Input device	: Standard Keyboard and Mouse 
+
+Output device	: VGA or High-Resolution Monitor
+
+## SOFTWARE REQUIREMENTS
+
+Operating system	: Windows XP or any higher version
+
+IDE	: Python 2.7 (64bit)
+
+Internet	: Low Bandwidth is enough
 
 
 # Hate Speech
