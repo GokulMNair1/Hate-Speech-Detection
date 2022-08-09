@@ -72,11 +72,12 @@ F) REPEAT STEP A TO E:
 
 Step from A till E is repeated for each tweet in training set to get complete list of Processed Tweets and Feature List.
 
-Hate Speech
+
+# Hate Speech
 ![hate_speech](https://user-images.githubusercontent.com/110875197/183563563-f9a9e00f-a960-4c4b-87ce-eeeee0b616ab.png)
 
-Offensive Language 
+# Offensive Language 
 ![offens_lang](https://user-images.githubusercontent.com/110875197/183563619-d5f66c9c-d261-490d-9789-c398b63e177d.png)
 
-Neither
+# Neither
 ![neither](https://user-images.githubusercontent.com/110875197/183563650-ef95ebcb-79e7-40c3-b321-916b5347444c.png)
